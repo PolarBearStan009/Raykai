@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+header {
+    background-color: grey;
+    height: 90px;
+}
+
+.one {
+    margin-left: 20%;
+    margin-top: -4%;
+
+}
+
+.clock {
+    width:50px;
+    length:50px;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.two {
+    margin-left: 43em;
+    margin-top: -50px;
+}
